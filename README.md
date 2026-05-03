@@ -27,7 +27,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
   - KPI Calculations  
 
 ## Project Structure
-
+'''
 Retail-Sales-Analysis-SQL/
 │
 ├── sql/
@@ -36,7 +36,7 @@ Retail-Sales-Analysis-SQL/
 │   ├── 3_advanced_kpis.sql           # Business KPIs & metrics
 │                         
 ├── README.md
-
+'''
 ## Findings
 
 - **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
