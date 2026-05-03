@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail Sales Analysis SQL Project
 
 ## Project Overview
@@ -225,3 +226,6 @@ For more content on SQL, data analysis, and other data-related topics, make sure
 - **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
 
 Thank you for your support, and I look forward to connecting with you!
+=======
+# Retail-Sales-Analysis-SQL
+>>>>>>> a63204c713c2c94d44c0726389d863f607222697
