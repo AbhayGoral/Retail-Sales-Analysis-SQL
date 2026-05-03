@@ -41,27 +41,27 @@ Retail-Sales-Analysis/
 ## Key Analysis Performed
 
 ## Data Cleaning
--Removed null and inconsistent records
--Standardized data formats
--Ensured data integrity for analysis
+- Removed null and inconsistent records
+- Standardized data formats
+- Ensured data integrity for analysis
 
 ## Exploratory Data Analysis (EDA)
--Total revenue and sales distribution
--Customer-wise spending analysis
-P-roduct/category performance
--Time-based trends (monthly/weekly sales)
+- Total revenue and sales distribution
+- Customer-wise spending analysis
+- roduct/category performance
+- Time-based trends (monthly/weekly sales)
 
 ## Advanced KPI Metrics
--Revenue growth trends
--Top-performing customers and products
--Sales variance analysis
--Contribution of each segment to total revenue
+- Revenue growth trends
+- Top-performing customers and products
+- Sales variance analysis
+- Contribution of each segment to total revenue
 
 ##Sample Business Insights
--Identified top 10 customers contributing highest revenue
--Detected seasonal sales patterns across months
--Highlighted underperforming categories for improvement
--Measured revenue contribution by product segments
+- Identified top 10 customers contributing highest revenue
+- Detected seasonal sales patterns across months
+- Highlighted underperforming categories for improvement
+- Measured revenue contribution by product segments
 
 ## Conclusion
 
@@ -75,11 +75,11 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
 ## Skills Demonstrated
--SQL Query Optimization
--Data Cleaning & Transformation
--Analytical Thinking
--Business KPI Design
--Data Interpretation
+- SQL Query Optimization
+- Data Cleaning & Transformation
+- Analytical Thinking
+- Business KPI Design
+- Data Interpretation
 
 ## Author - Abhay Goral
 
