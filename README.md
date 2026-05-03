@@ -15,15 +15,16 @@ This project is designed to demonstrate SQL skills and techniques typically used
 3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
 4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
 
-Tech Stack
-**Database:** PostgreSQL
-**Language:** SQL
-**Concepts Used:**
-Data Cleaning
-#Aggregations & Grouping
-#Joins
-#Window Functions
-#KPI Calculations
+## Tech Stack
+
+- **Database:** PostgreSQL  
+- **Language:** SQL  
+- **Concepts Used:**  
+  - Data Cleaning  
+  - Aggregations & Grouping  
+  - Joins  
+  - Window Functions  
+  - KPI Calculations  
 
 ## Project Structure
 
