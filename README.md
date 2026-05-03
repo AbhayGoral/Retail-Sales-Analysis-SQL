@@ -29,13 +29,14 @@ This project is designed to demonstrate SQL skills and techniques typically used
 ## Project Structure
 ~~~
 Retail-Sales-Analysis/
-│
+│ 
+├── data/
+│   └── SQL-Retail_Sales_Analysis.csv              # Raw dataset
+│    
 ├── 1_setup_and_cleaning.sql      # Data preprocessing & cleaning
 ├── 2_analysis.sql                # Exploratory data analysis (EDA)
 ├── 3_advanced_kpis.sql           # Business KPIs & metrics
-│
-├── data/
-│   └── SQL-Retail_Sales_Analysis.csv              # Raw dataset                         
+│                   
 ├── README.md
 ~~~
 ## Key Analysis Performed
