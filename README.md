@@ -3,8 +3,8 @@
 
 ## Project Overview
 
-**Project Title**: Retail Sales Analysis 
-**Database**: `retailsalesdb`
+##**Project Title**: Retail Sales Analysis 
+##**Database**: `retailsalesdb`
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA),advanced KPI generation and answering specific business questions through SQL queries.
 
@@ -16,14 +16,14 @@ This project is designed to demonstrate SQL skills and techniques typically used
 4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
 
 ## Tech Stack
-**Database:** PostgreSQL
-**Language:** SQL
-**Concepts Used:**
-Data Cleaning
-Aggregations & Grouping
-Joins
-Window Functions
-KPI Calculations
+##**Database:** PostgreSQL
+##**Language:** SQL
+##**Concepts Used:**
+#Data Cleaning
+#Aggregations & Grouping
+#Joins
+#Window Functions
+#KPI Calculations
 
 ## Project Structure
 
