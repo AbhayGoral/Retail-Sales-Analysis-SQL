@@ -28,27 +28,40 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ## Project Structure
 ~~~
-Retail-Sales-Analysis-SQL/
+Retail-Sales-Analysis/
 │
-├── sql/
-│   ├── 1_setup_and_cleaning.sql      # Data preprocessing & cleaning
-│   ├── 2_analysis.sql                # Exploratory data analysis (EDA)
-│   ├── 3_advanced_kpis.sql           # Business KPIs & metrics
-│                         
+├── 1_setup_and_cleaning.sql      # Data preprocessing & cleaning
+├── 2_analysis.sql                # Exploratory data analysis (EDA)
+├── 3_advanced_kpis.sql           # Business KPIs & metrics
+│
+├── data/
+│   └── SQL-Retail_Sales_Analysis.csv              # Raw dataset                         
 ├── README.md
 ~~~
-## Findings
+## Key Analysis Performed
 
-- **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
-- **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
-- **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
-- **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
+## Data Cleaning
+-Removed null and inconsistent records
+-Standardized data formats
+-Ensured data integrity for analysis
 
-## Reports
+## Exploratory Data Analysis (EDA)
+-Total revenue and sales distribution
+-Customer-wise spending analysis
+P-roduct/category performance
+-Time-based trends (monthly/weekly sales)
 
-- **Sales Summary**: A detailed report summarizing total sales, customer demographics, and category performance.
-- **Trend Analysis**: Insights into sales trends across different months and shifts.
-- **Customer Insights**: Reports on top customers and unique customer counts per category.
+## Advanced KPI Metrics
+-Revenue growth trends
+-Top-performing customers and products
+-Sales variance analysis
+-Contribution of each segment to total revenue
+
+##Sample Business Insights
+-Identified top 10 customers contributing highest revenue
+-Detected seasonal sales patterns across months
+-Highlighted underperforming categories for improvement
+-Measured revenue contribution by product segments
 
 ## Conclusion
 
@@ -57,24 +70,20 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## How to Use
 
 1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
+2. **Set Up the Database**: Run the SQL scripts provided in the `1_setup_and_cleaning.sql` file to create and populate the database.
+3. **Run the Queries**: Use the SQL queries provided in the `2_analysis.sql` file to perform your analysis and '3_advanced_kpis.sql'  to generate kpis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
-## Author - Zero Analyst
+## Skills Demonstrated
+-SQL Query Optimization
+-Data Cleaning & Transformation
+-Analytical Thinking
+-Business KPI Design
+-Data Interpretation
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+## Author - Abhay Goral
 
-### Stay Updated and Join the Community
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, feel free to get in touch!
 
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
 
-Thank you for your support, and I look forward to connecting with you!
-=======
-# Retail-Sales-Analysis-SQL
->>>>>>> a63204c713c2c94d44c0726389d863f607222697
