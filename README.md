@@ -58,7 +58,7 @@ Retail-Sales-Analysis/
 - Sales variance analysis
 - Contribution of each segment to total revenue
 
-##Sample Business Insights
+## Sample Business Insights
 - Identified top 10 customers contributing highest revenue
 - Detected seasonal sales patterns across months
 - Highlighted underperforming categories for improvement
